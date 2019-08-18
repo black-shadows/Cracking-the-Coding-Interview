@@ -1,3 +1,8 @@
-Here is the link from where you can download the Cracking the Coding Interview, 6th Edition.
+Here is the link from where you can download Cracking the Coding Interview, 6th Edition - Gayle Laakmann McDowell.
 
 https://drive.google.com/open?id=1NfcUZTl18wigCg0-jLzOe97ekORXjyij
+
+
+(Bonus) Here is the link from where you can download Data Structures and Algorithms - Narasimha Karumanchi
+
+https://drive.google.com/open?id=1-g5kd_7DQngNLR0jPyoXq6z2fN_1ia6K
